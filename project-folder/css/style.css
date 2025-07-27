@@ -21,8 +21,8 @@
             text-align: justify;
             padding-top: 2%;
             font-family: Arial, sans-serif;
-            padding-left: 18%;
-            padding-right: 18%;
+            padding-left: 12%;
+            padding-right: 12%;
             letter-spacing: 1px;
         }
         
@@ -50,8 +50,7 @@
     
     .personal_history {
             text-align: justify;
-            padding-left: 27%;
-            padding-right: 27%;
+            padding-left: 18%;
             font-family: Arial, sans-serif;
         }
 
