@@ -83,7 +83,7 @@
 
     table {
             width: 100%;
-            height: 350px;
+            height: 100vh;
             margin: 20px auto;
             border-collapse: collapse;
             font-family: Arial, sans-serif;
